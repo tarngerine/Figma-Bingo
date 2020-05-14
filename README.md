@@ -1,3 +1,18 @@
+# Figma Bingo
+
+WIP, so far just has a bingo card shuffler. Assumes you set up your bingo card in a specific way using Auto Layout.
+```
+Frame (Select this and run plugin)
+  Row 1 (Stays in place)
+    Cell 1 (Shuffled)
+    Cell 2 (Shuffled)
+    ...
+```
+
+You may name a cell "FREE" and it will be put in the middle (assuming you have an odd-numbered bingo board)
+
+---
+
 Below are the steps to get your plugin running. You can also find instructions at:
 
   https://www.figma.com/plugin-docs/setup/
